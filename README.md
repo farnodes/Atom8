@@ -1,2 +1,1 @@
-# OSP
-open source project template 
+# Atom8
